@@ -1,0 +1,9 @@
+# domains/whitelist.txt
+# Whitelist: one domain per line, no protocol, no trailing slash
+# Comments start with #
+bbc.co.uk
+bbci.co.uk
+bbc.com
+bbc.net.uk
+qobuz.com
+qobuz.co.uk
