@@ -7,3 +7,5 @@ bbc.com
 bbc.net.uk
 qobuz.com
 qobuz.co.uk
+
+ebay.co.uk
