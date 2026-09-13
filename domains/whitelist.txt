@@ -5,5 +5,8 @@ bbc.co.uk
 bbci.co.uk
 bbc.com
 bbc.net.uk
+
 qobuz.com
 qobuz.co.uk
+qobuz.net
+qobuz.fr
